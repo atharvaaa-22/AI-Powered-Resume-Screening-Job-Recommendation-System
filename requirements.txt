@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+dotenv
+typing-extensions
+langgraph
+langchain-google-genai
